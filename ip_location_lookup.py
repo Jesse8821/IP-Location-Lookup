@@ -9,3 +9,5 @@ response = requests.get(url)
 data = response.json()
 
 print(json.dumps(data, indent=4))
+
+# 💡 Got suggestions or improvements? Open a pull request or issue on GitHub!
