@@ -26,6 +26,3 @@ Please note that the **iplocate.io API** allows **up to 1000 requests per day** 
 
 This tool is provided **as-is**. The author is **not responsible for any misuse or issues** that arise from using this script or the IP data retrieved. Please make sure you comply with all relevant laws and regulations when using this tool.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
