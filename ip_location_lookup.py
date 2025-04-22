@@ -8,5 +8,4 @@ url = f'https://iplocate.io/api/lookup/{ip}?apikey={apiKey}'
 response = requests.get(url)
 data = response.json()
 
-# Mooi formatteren en afdrukken
 print(json.dumps(data, indent=4))
